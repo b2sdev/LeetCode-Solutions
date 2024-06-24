@@ -33,4 +33,4 @@ class Solution:
 s = Solution()
 print(s.longestPalindrome("babad"))  # "bab" or "aba"
 print(s.longestPalindrome("cbbd"))  # "bb"
-print(s.longestPalindrome("abb"))
+print(s.longestPalindrome("abb"))  # "bb"
